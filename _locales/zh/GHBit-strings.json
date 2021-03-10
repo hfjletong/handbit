@@ -1,9 +1,34 @@
 {
- 
+
+
   "GHBit.Min_Motor_Shake|block": "手柄遥控器|震动 %value",
   "GHBit.Rocker|block": "手柄遥杆|返回 %value",
   "GHBit.Button|block": "手柄按键|选择 %num|返回 %value",
 
+  "GHBit.Music_Handle|block": "手柄音乐播放|%index",
+ 
+	"GHBit.Beamstate.bright|block": "白天",
+	"GHBit.Beamstate.dark|block": "黑夜",
+	"GHBit.Motorshock.OFF|block": "关",
+	"GHBit.Motorshock.ON|block": "开",
+
+	"GHBit.enRocker.Nostate|block": "无",
+	"GHBit.enRocker.Up|block": "上",
+	"GHBit.enRocker.Down|block": "下",
+	"GHBit.enRocker.Left|block": "左",
+	"GHBit.enRocker.Right|block": "右",
+	"GHBit.enRocker.Press|block": "按下",
+	"GHBit.enButtonState.Press|block": "按下",
+	"GHBit.enButtonState.Realse|block": "松开",
+
+	"GHBit.enColor.OFF|block": "熄灭",
+	"GHBit.enColor.RED|block": "红色",
+	"GHBit.enColor.GREEN|block": "绿色",
+	"GHBit.enColor.BLUE|block": "蓝色",
+	"GHBit.enColor.WHITE|block": "白色",
+	"GHBit.enColor.CYAN|block": "青色",
+	"GHBit.enColor.PINKISH|block": "品红",
+	"GHBit.enColor.YELLOW|block": "黄色"
   "GHBit.Music_Handle|block": "手柄音乐播放|%index"
 
 }
